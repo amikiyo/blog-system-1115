@@ -1,3 +1,5 @@
+require_once(dirname(__FILE__).'/../functions/require.php');
+
 <?php
 	require_once(dirname(__FILE__).'/url_list.php');
 
