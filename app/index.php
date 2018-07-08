@@ -1,4 +1,5 @@
 <?php
+	require_once(dirname(__FILE__).'/../functions/require.php');
 	require_once(dirname(__FILE__).'/url_list.php');
 
 	try {
@@ -13,5 +14,3 @@
 		} catch (Exception $e) {
 			exit;
 		}
-
-		require_once(dirname(__FILE__).'/../functions/require.php');
