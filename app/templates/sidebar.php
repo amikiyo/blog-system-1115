@@ -17,22 +17,29 @@
 					</div>
 				</a>
 			</li>
+			<li>
+				<ul class="nav nav-profile">
+					<li><a href="javascript:;"><i class="fa fa-cog"></i> Settings</a></li>
+					<li><a href="javascript:;"><i class="fa fa-pencil-alt"></i> Send Feedback</a></li>
+					<li><a href="javascript:;"><i class="fa fa-question-circle"></i> Helps</a></li>
+				</ul>
+			</li>
 		</ul>
 		<!-- end sidebar user -->
 		<!-- begin sidebar nav -->
 		<ul class="nav">
 <!--ブログ追加start-->
-			<li class="has-sub active">
+			<li class="has-sub">
 				<a href="javascript:;">
 					<b class="caret"></b>
 					<i class="fa fa-star"></i>
 					<span>ブログ</span>
 				</a>
 				<ul class="sub-menu">
-					<li><a href="/blog/entry/">ブログ記事作成</a></li>
-					<li><a href="/blog/">記事一覧</a></li>
-					<li><a href="/blog/category/">カテゴリー管理</a></li>
-					<li><a href="/blog/setting/">ブログ基本設定</a></li>
+					<li><a href="../../../blog/entry/" target="_blank">ブログ記事作成</a></li>
+					<li><a href="../../../blog/" target="_blank">記事一覧</a></li>
+					<li><a href="../../../blog/category/" target="_blank">カテゴリー管理</a></li>
+					<li><a href="../../../blog/setting/" target="_blank">ブログ基本設定</a></li>
 				</ul>
 			</li>
 <!--ブログ追加end-->
