@@ -16,7 +16,7 @@
 		<!-- begin #header -->
 		<?php include(TEMPLATE_PATH."/header.php"); ?>
 		<!-- end #header -->
-
+		<?php include(TEMPLATE_PATH."/sidebar.php"); ?>
 		<!-- begin #content -->
 		<div id="content" class="content">
 
