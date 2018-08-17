@@ -8,12 +8,12 @@
 				<a href="javascript:;" data-toggle="nav-profile">
 					<div class="cover with-shadow"></div>
 					<div class="image">
-						<img src="<?php echo CONTENTS_SERVER_URL ?>/assets/img/user/user-13.jpg" alt="" />
+						<img src="<?php echo CONTENTS_SERVER_URL ?>/assets/img/user/user-12.jpg" alt="" />
 					</div>
 					<div class="info">
 						<b class="caret pull-right"></b>
 						Komatsu Asami
-						<small>Sample Blog</small>
+						<small>test@gmail.com</small>
 					</div>
 				</a>
 			</li>
@@ -25,7 +25,7 @@
 			<li class="has-sub active">
 				<a href="javascript:;">
 					<b class="caret"></b>
-					<i class="fa fa-star"></i>
+					<i class="fa fa-edit"></i>
 					<span>ブログ</span>
 				</a>
 				<ul class="sub-menu">

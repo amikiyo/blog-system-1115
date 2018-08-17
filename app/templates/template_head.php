@@ -24,5 +24,5 @@
 			<?php include(TEMPLATE_PATH."/breadcrumb.php"); ?>
 			<!-- end breadcrumb -->
 			<!-- begin page-header -->
-			<h1 class="page-header">Blank Page <small>header small text goes here...</small></h1>
+			<h1 class="page-header">Blank Page<!-- <small>header small text goes here...</small>--></h1>
 			<!-- end page-header -->
